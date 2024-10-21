@@ -57,7 +57,3 @@ LOCATION: New York
 STAFF NUMBER: 15
 HIRE STAFF: YES
 ```
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or features, feel free to submit a pull request or create an issue.
